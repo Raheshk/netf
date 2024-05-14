@@ -1,0 +1,150 @@
+.background_img {
+  background-image: url("/hello/kisspng-netflix-.jpg");
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+.sign_in {
+  width: 460px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 3px;
+  padding: 24px;
+  margin-left: 400px;
+  margin-right: 400px;
+  display: flex;
+  flex-direction: column;
+}
+.netflix_signup {
+  margin-bottom: 2rem;
+}
+
+.heading {
+  color: azure;
+  padding-bottom: 3px;
+}
+
+.form-control {
+  background-color: transparent;
+  border: 1px solid grey;
+  border-radius: 5px;
+  height: 60px;
+  width: 330px;
+  margin-bottom: 25px;
+  margin-left: 60px;
+}
+
+.form-control::placeholder {
+  color: rgb(169, 173, 165);
+  padding-left: 15px;
+}
+
+.background_img {
+  background-image: url("Wha.jpg");
+}
+
+.image {
+  width: 170px;
+  height: 55px;
+  padding-left: 140px;
+  padding-top: 30px;
+}
+
+.sign-in-btn {
+  color: white;
+  background-color: red;
+  height: 45px;
+  margin-bottom: 5px;
+  border: none;
+  border-radius: 5px;
+  width: 333px;
+  margin-left: 68px;
+}
+.permission {
+  color: white;
+  padding-top: 8rem;
+}
+
+.nextstep {
+  text-align: center;
+  color: rgb(194, 197, 200);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.otpbutton {
+  background-color: transparent;
+  border: 1px solid grey;
+  border-radius: 5px;
+  height: 60px;
+  width: 330px;
+  margin-bottom: 5px;
+  margin-left: 65px;
+  color: azure;
+}
+
+.changepsw {
+  color: aliceblue;
+  margin-top: 20px;
+
+  margin-left: 20px;
+}
+.changepsw a {
+  text-decoration: none;
+}
+
+.permision {
+  margin-left: 460px;
+}
+
+.remainder-checkbox {
+  padding-left: 5rem;
+  padding-top: 1rem;
+}
+
+.netflix_signup,
+a {
+  color: rgb(193, 200, 206);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 19px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.netflix_signup-paragraph-pag {
+  color: aliceblue;
+  width: 350px;
+  padding-top: 7rem;
+}
+
+.netflix_contact-detials {
+  padding-left: 0%;
+  padding-top: 8rem;
+  margin-left: 9rem;
+  width: 55rem;
+  height: 15rem;
+}
+
+.netflix_contact-detials2 {
+  margin-top: 2rem;
+  margin-left: 0rem;
+  height: 4rem;
+}
+
+a {
+  padding-left: 8rem;
+  text-decoration: underline;
+}
+.netflix {
+  color: white;
+  display: flex;
+  width: 23rem;
+}
+.netflix2 {
+  padding-left: 0px;
+}
+

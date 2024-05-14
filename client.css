@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+}
+.screen {
+  width: 1440px;
+  height: 1024px;
+  top: -5898px;
+  left: -4580px;
+  gap: 0px;
+  opacity: 0px;
+}
+a {
+  text-decoration: none;
+}
+.app-main {
+  display: flex;
+  flex-direction: row;
+  background-color: #cc4e4e;
+  width: 220px;
+  height: 1024px;
+  padding: 11px 25px 20px 25px;
+  gap: 0px;
+  opacity: 0px;
+}
+li {
+  padding: 20px;
+}
+.two {
+  padding: 900px;
+}
+right-heading {
+  width:1220px;
+  height: 60px;
+  gap: 0px;
+  opacity: 0px;
+  padding: (10, 0,0,10); 
+
+}
+.left-morgin {
+  padding-top: 1px;
+}
